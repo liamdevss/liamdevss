@@ -57,3 +57,5 @@ timeline
 ---
 
 [liaminit.com](https://liaminit.com) · [X @liammdevs](https://x.com/liammdevs) · [liam@serveros.com](mailto:liam@serveros.com) · Belfast
+
+![Profile views](https://komarev.com/ghpvc/?username=liamdevss&style=for-the-badge&color=246BFD)
