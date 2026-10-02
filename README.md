@@ -4,8 +4,10 @@ I design and build infrastructure software, the unglamorous layer everything els
 
 The job is always the same one: take infrastructure that behaves like a pile of terminals and make it feel like one calm product.
 
+[![Portfolio: liaminit.com](https://img.shields.io/badge/Portfolio-liaminit.com-246BFD?style=for-the-badge)](https://liaminit.com)
+
 > [!TIP]
-> **Open for work.** Say hi at [liam@serveros.com](mailto:liam@serveros.com).
+> **Open for work.** See what I've made at [liaminit.com](https://liaminit.com), or say hi at [liam@serveros.com](mailto:liam@serveros.com).
 
 ### Now
 
