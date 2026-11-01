@@ -4,9 +4,20 @@ My portfolio is at [liaminit.com](https://liaminit.com), or you can email me at 
 
 ### Now
 
-- **[ServerOS](https://serveros.com)** (co-founder): a control panel for servers you already run. It picks up your existing services, like nginx, Postgres and systemd units, without you having to migrate anything.
-- **[Budibase](https://budibase.com)** (customer success engineer): an open source platform for building internal tools. I help customers get set up and fix problems when they come up.
-- **[DiscordJobList](https://discordjoblist.com)** (founder): a job board for Discord communities.
+<table>
+<tr>
+<td width="56"><a href="https://serveros.com"><img src="assets/logos/serveros.png" width="40" height="40" alt="ServerOS"></a></td>
+<td><b><a href="https://serveros.com">ServerOS</a></b> · co-founder<br>A control panel for servers you already run. It picks up your existing services, like nginx, Postgres and systemd units, without you having to migrate anything.</td>
+</tr>
+<tr>
+<td width="56"><a href="https://budibase.com"><img src="assets/logos/budibase.png" width="40" height="40" alt="Budibase"></a></td>
+<td><b><a href="https://budibase.com">Budibase</a></b> · customer success engineer<br>An open source platform for building internal tools. I help customers get set up and fix problems when they come up.</td>
+</tr>
+<tr>
+<td width="56"><a href="https://discordjoblist.com"><img src="assets/logos/discordjoblist.png" width="40" height="40" alt="DiscordJobList"></a></td>
+<td><b><a href="https://discordjoblist.com">DiscordJobList</a></b> · founder<br>A job board for Discord communities.</td>
+</tr>
+</table>
 
 ### Projects
 
@@ -25,13 +36,24 @@ My portfolio is at [liaminit.com](https://liaminit.com), or you can email me at 
 
 ### Tools
 
-| | |
-| --- | --- |
-| **Build** | <img src="https://skillicons.dev/icons?i=laravel,php,vue,react,ts,js,nodejs,express,vite,tailwind,html,css,tauri,rust,kotlin,py&perline=8" alt="Laravel, PHP, Vue, React, TypeScript, JavaScript, Node.js, Express, Vite, Tailwind CSS, HTML, CSS, Tauri, Rust, Kotlin, Python"> |
-| **Infrastructure** | <img src="https://skillicons.dev/icons?i=docker,mysql,nginx,linux,ubuntu,cloudflare,jenkins,githubactions,git,github,bash&perline=8" alt="Docker, MySQL, nginx, Linux, Ubuntu, Cloudflare, Jenkins, GitHub Actions, Git, GitHub, Bash"> |
-| **Testing** | <img src="https://skillicons.dev/icons?i=postman,selenium&perline=8" alt="Postman, Selenium"> <br> ![Playwright](https://img.shields.io/badge/Playwright-1C1C1B?style=flat-square) ![Apache JMeter](https://img.shields.io/badge/Apache_JMeter-1C1C1B?style=flat-square&logo=apachejmeter&logoColor=white) ![BrowserStack](https://img.shields.io/badge/BrowserStack-1C1C1B?style=flat-square) |
-| **Design** | <img src="https://skillicons.dev/icons?i=figma&perline=8" alt="Figma"> <br> ![shadcn/ui](https://img.shields.io/badge/shadcn%2Fui-1C1C1B?style=flat-square&logo=shadcnui&logoColor=white) ![Framer Motion](https://img.shields.io/badge/Framer_Motion-1C1C1B?style=flat-square&logo=framer&logoColor=white) |
-| **Game servers** | ![Pterodactyl](https://img.shields.io/badge/Pterodactyl-1C1C1B?style=flat-square&logo=pterodactyl&logoColor=white) ![PaperMC](https://img.shields.io/badge/PaperMC-1C1C1B?style=flat-square) |
+<table>
+<tr>
+<td><b>Build</b></td>
+<td><img src="https://skillicons.dev/icons?i=laravel,php,vue,react,ts,js,nodejs,express,vite,tailwind,html,css,tauri,rust,kotlin,py&perline=8" alt="Laravel, PHP, Vue, React, TypeScript, JavaScript, Node.js, Express, Vite, Tailwind CSS, HTML, CSS, Tauri, Rust, Kotlin, Python"></td>
+</tr>
+<tr>
+<td><b>Infrastructure</b></td>
+<td><img src="https://skillicons.dev/icons?i=docker,mysql,nginx,linux,ubuntu,cloudflare,jenkins,githubactions,git,github,bash&perline=8" alt="Docker, MySQL, nginx, Linux, Ubuntu, Cloudflare, Jenkins, GitHub Actions, Git, GitHub, Bash"><br><sub>Also Pterodactyl and PaperMC for game servers</sub></td>
+</tr>
+<tr>
+<td><b>Testing</b></td>
+<td><img src="https://skillicons.dev/icons?i=postman,selenium&perline=8" alt="Postman, Selenium"><br><sub>Also Playwright, Apache JMeter and BrowserStack</sub></td>
+</tr>
+<tr>
+<td><b>Design</b></td>
+<td><img src="https://skillicons.dev/icons?i=figma&perline=8" alt="Figma"><br><sub>Also shadcn/ui and Framer Motion</sub></td>
+</tr>
+</table>
 
 ---
 
