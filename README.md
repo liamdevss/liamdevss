@@ -48,24 +48,9 @@ My portfolio is at [liaminit.com](https://liaminit.com), or you can email me at 
 
 ### Tools
 
-<table width="100%">
-<tr>
-<td width="140"><b>Build</b></td>
-<td><img src="https://skillicons.dev/icons?i=laravel,php,vue,react,ts,js,nodejs,express,vite,tailwind,html,css,tauri,rust,kotlin,py&perline=8" alt="Laravel, PHP, Vue, React, TypeScript, JavaScript, Node.js, Express, Vite, Tailwind CSS, HTML, CSS, Tauri, Rust, Kotlin, Python"></td>
-</tr>
-<tr>
-<td width="140"><b>Infrastructure</b></td>
-<td><img src="https://skillicons.dev/icons?i=docker,mysql,nginx,linux,ubuntu,cloudflare,jenkins,githubactions,git,github,bash&perline=8" alt="Docker, MySQL, nginx, Linux, Ubuntu, Cloudflare, Jenkins, GitHub Actions, Git, GitHub, Bash"><br><sub>Also Pterodactyl and PaperMC for game servers</sub></td>
-</tr>
-<tr>
-<td width="140"><b>Testing</b></td>
-<td><img src="https://skillicons.dev/icons?i=postman,selenium&perline=8" alt="Postman, Selenium"><br><sub>Also Playwright, Apache JMeter and BrowserStack</sub></td>
-</tr>
-<tr>
-<td width="140"><b>Design</b></td>
-<td><img src="https://skillicons.dev/icons?i=figma&perline=8" alt="Figma"><br><sub>Also shadcn/ui and Framer Motion</sub></td>
-</tr>
-</table>
+<img src="https://skillicons.dev/icons?i=laravel,php,vue,react,ts,js,nodejs,express,vite,tailwind,html,css,tauri,rust,kotlin,py,docker,mysql,nginx,linux,ubuntu,cloudflare,jenkins,githubactions,git,github,bash,postman,selenium,figma&perline=15" width="100%" alt="Laravel, PHP, Vue, React, TypeScript, JavaScript, Node.js, Express, Vite, Tailwind CSS, HTML, CSS, Tauri, Rust, Kotlin, Python, Docker, MySQL, nginx, Linux, Ubuntu, Cloudflare, Jenkins, GitHub Actions, Git, GitHub, Bash, Postman, Selenium, Figma">
+
+Also Playwright, Apache JMeter, BrowserStack, shadcn/ui, Framer Motion, Pterodactyl and PaperMC.
 
 ---
 
