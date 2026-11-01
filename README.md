@@ -1,11 +1,11 @@
-I'm Liam, a designer and software engineer from Belfast. I've spent most of my career working on game server hosting, and these days I build control panels and infrastructure tools.
+I'm Liam, a designer and software engineer from Belfast. I've spent most of my career working on game server hosting, and these days I'm a customer success engineer at Budibase.
 
-I'm open for work. My portfolio is at [liaminit.com](https://liaminit.com), or you can email me at [liam@serveros.com](mailto:liam@serveros.com).
+My portfolio is at [liaminit.com](https://liaminit.com), or you can email me at [liam@serveros.com](mailto:liam@serveros.com).
 
 ### Now
 
 - **[ServerOS](https://serveros.com)** (co-founder): a control panel for servers you already run. It picks up your existing services, like nginx, Postgres and systemd units, without you having to migrate anything.
-- **[PoisonHost](https://poisonhost.com)** (product lead and software engineer): a game hosting company. I work on the control panel: console, files, SFTP, backups, modpacks, schedules and switching games.
+- **[Budibase](https://budibase.com)** (customer success engineer): an open source platform for building internal tools. I help customers get set up and fix problems when they come up.
 - **[DiscordJobList](https://discordjoblist.com)** (founder): a job board for Discord communities.
 
 ### Projects
@@ -18,6 +18,7 @@ I'm open for work. My portfolio is at [liaminit.com](https://liaminit.com), or y
 
 ### Experience
 
+- **2026**: Customer success engineer at Budibase
 - **2026**: Product lead and software engineer at PoisonHost
 - **2025**: QA engineer at BisectHosting, co-founded ServerOS
 - **2018 to 2023**: Freelance software and IT work
