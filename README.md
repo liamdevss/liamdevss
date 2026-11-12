@@ -1,4 +1,4 @@
-I'm Liam, a designer and software engineer from Belfast. I've spent most of my career working on game server hosting, and these days I'm a customer success engineer at Budibase.
+I'm Dylan, a designer and software engineer from Belfast. I've spent most of my career working on game server hosting, and these days I'm a customer success engineer at Budibase.
 
 My portfolio is at [dylansofley.com](https://dylansofley.com), or you can email me at [liam@serveros.com](mailto:liam@serveros.com).
 
@@ -6,12 +6,12 @@ My portfolio is at [dylansofley.com](https://dylansofley.com), or you can email 
 
 <table width="100%">
 <tr>
-<td width="56"><a href="https://serveros.com"><img src="assets/logos/serveros.png" width="40" height="40" alt="ServerOS"></a></td>
+<td width="56"><a href="https://serveros.com"><img src="assets/logos/serveros-blue.png" width="40" height="40" alt="ServerOS"></a></td>
 <td><b><a href="https://serveros.com">ServerOS</a></b> · co-founder · <a href="https://github.com/serveroshq/panel"><img src="https://img.shields.io/github/stars/serveroshq/panel?style=flat-square&label=%E2%98%85&color=246BFD" alt="stars" align="absmiddle"></a><br>An open source control panel for servers you already run. It picks up your existing services, like nginx, Postgres and systemd units, without you having to migrate anything.</td>
 </tr>
 <tr>
-<td width="56"><a href="https://budibase.com"><img src="assets/logos/budibase.png" width="40" height="40" alt="Budibase"></a></td>
-<td><b><a href="https://budibase.com">Budibase</a></b> · customer success engineer<br>An open source platform for building internal tools. I help customers get set up and fix problems when they come up.</td>
+<td width="56"><a href="https://budibase.com"><img src="assets/logos/budibase-lime.png" width="40" height="40" alt="Budibase"></a></td>
+<td><b><a href="https://budibase.com">Budibase</a></b> · customer success engineer · <a href="https://github.com/Budibase/budibase"><img src="https://img.shields.io/github/stars/Budibase/budibase?style=flat-square&label=%E2%98%85&color=246BFD" alt="stars" align="absmiddle"></a><br>An open source platform for building internal tools. I help customers get set up and fix problems when they come up.</td>
 </tr>
 <tr>
 <td width="56"><a href="https://discordjoblist.com"><img src="assets/logos/discordjoblist.png" width="40" height="40" alt="DiscordJobList"></a></td>
