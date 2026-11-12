@@ -1,13 +1,13 @@
 I'm Liam, a designer and software engineer from Belfast. I've spent most of my career working on game server hosting, and these days I'm a customer success engineer at Budibase.
 
-My portfolio is at [liaminit.com](https://liaminit.com), or you can email me at [liam@serveros.com](mailto:liam@serveros.com).
+My portfolio is at [dylansofley.com](https://dylansofley.com), or you can email me at [liam@serveros.com](mailto:liam@serveros.com).
 
 ### Now
 
 <table width="100%">
 <tr>
 <td width="56"><a href="https://serveros.com"><img src="assets/logos/serveros.png" width="40" height="40" alt="ServerOS"></a></td>
-<td><b><a href="https://serveros.com">ServerOS</a></b> · co-founder<br>A control panel for servers you already run. It picks up your existing services, like nginx, Postgres and systemd units, without you having to migrate anything.</td>
+<td><b><a href="https://serveros.com">ServerOS</a></b> · co-founder · <a href="https://github.com/serveroshq/panel"><img src="https://img.shields.io/github/stars/serveroshq/panel?style=flat-square&label=%E2%98%85&color=246BFD" alt="stars" align="absmiddle"></a><br>An open source control panel for servers you already run. It picks up your existing services, like nginx, Postgres and systemd units, without you having to migrate anything.</td>
 </tr>
 <tr>
 <td width="56"><a href="https://budibase.com"><img src="assets/logos/budibase.png" width="40" height="40" alt="Budibase"></a></td>
@@ -54,4 +54,4 @@ Also Playwright, Apache JMeter, BrowserStack, shadcn/ui, Framer Motion, Pterodac
 
 ---
 
-[liaminit.com](https://liaminit.com) · [X @liammdevs](https://x.com/liammdevs) · [liam@serveros.com](mailto:liam@serveros.com)
+[dylansofley.com](https://dylansofley.com) · [X @dylanndevs](https://x.com/dylanndevs) · [LinkedIn](https://www.linkedin.com/in/dylan-sofley/) · [liam@serveros.com](mailto:liam@serveros.com)
